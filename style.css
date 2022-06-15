@@ -5,3 +5,7 @@
 h1 {
     font-family: Oxygen;
 }
+
+.carousel-item img {
+    border-radius: 10px;
+}
