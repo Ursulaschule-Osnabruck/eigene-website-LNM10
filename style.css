@@ -9,3 +9,11 @@ h1 {
 .carousel-item img {
     border-radius: 10px;
 }
+
+h3 {
+    font-family: Oxygen;
+}
+
+.card my-4 border-0 {
+    border-radius: 5px;
+}
