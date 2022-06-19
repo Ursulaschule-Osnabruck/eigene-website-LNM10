@@ -15,5 +15,9 @@ h3 {
 }
 
 .card my-4 border-0 {
-    border-radius: 5px;
+    border-radius: 10px;
+}
+
+.card {
+    size: ;
 }
